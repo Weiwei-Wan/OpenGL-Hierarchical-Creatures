@@ -5,6 +5,7 @@ primitives such as blocks, spheres and cylinders. One creature can have a simple
 two links) structure, with a 1-1 relationship between each parent-child. The second creature
 should be more complex, with at least 5 bones and at least one 1-many relationship (
 torso with two independent links).
+
 • Animate the creatures using both forward and inverse kinematics (IK). Analytical
 solutions to IK are the most straightforward and can be used for the simple model. For the
 more complex creature, CCD was investigated. 
